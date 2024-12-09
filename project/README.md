@@ -1,7 +1,5 @@
 # Recipe Recommendation and Shopping List Generator
 
-#### Video Demo:  https://youtu.be/bfiLyTeuGV0
-
 #### Description:
 The **Recipe Recommendation and Shopping List Generator** is a command-line Python application designed to suggest recipes based on user preferences, dietary restrictions, and cuisine preferences. This program also provides a shopping list of ingredients required for any selected recipe, helping users plan their meals more efficiently.
 
