@@ -1,6 +1,6 @@
 # CS50 Problem Solutions
 
-Welcome to the repository for solutions to CS50 problems! This repository contains my implementations of problem sets and projects from Harvard University's [CS50: Introduction to Computer Science](https://cs50.harvard.edu/).
+Welcome to the repository for solutions to CS50 problems! This repository contains my implementations of problem sets and projects from Harvard University's [CS50: Introduction to Programming with Python].
 
 ## About
 
